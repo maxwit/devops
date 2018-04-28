@@ -1,0 +1,63 @@
+dn: uid=young,ou=People,dc=maxwit,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: ting
+sn: Yang
+givenName: Ting
+cn: Ting Yang
+displayName: Ting Yang
+uidNumber: 10000
+gidNumber: 5001
+userPassword: maxwit
+gecos: Ting Yang
+loginShell: /bin/bash
+homeDirectory: /home/young
+
+dn: uid=sandy,ou=People,dc=maxwit,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: sandy 
+sn: Zhou
+givenName: Sandy
+cn: Sandy Zhou
+displayName: Sandy Zhou
+uidNumber: 10001
+gidNumber: 5000
+userPassword: maxwit
+gecos: Sandy Zhou
+loginShell: /bin/bash
+homeDirectory: /home/sandy
+
+dn: uid=conke,ou=People,dc=maxwit,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: conke 
+sn: Hu
+givenName: Conke
+cn: Conke Hu
+displayName: Conke Hu
+uidNumber: 10002
+gidNumber: 5000
+userPassword: maxwit
+gecos: Conke Hu
+loginShell: /bin/bash
+homeDirectory: /home/conke
+
+dn: uid=nancy,ou=People,dc=maxwit,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: nancy
+sn: Xia
+givenName: Nancy
+cn: Nancy Xia
+displayName: Nancy Xia
+uidNumber: 10003
+gidNumber: 5000
+userPassword: maxwit
+gecos: Nancy Xia
+loginShell: /bin/bash
+homeDirectory: /home/nancy

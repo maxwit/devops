@@ -1,0 +1,24 @@
+dn: cn=dev,ou=Groups,dc=maxwit,dc=com
+objectClass: posixGroup
+description: Research and development Deparment
+gidNumber: 5000
+
+dn: cn=prd,ou=Groups,dc=maxwit,dc=com
+objectClass: posixGroup
+description: Product Department
+gidNumber: 5001
+
+dn: cn=mkt,ou=Groups,dc=maxwit,dc=com
+objectClass: posixGroup
+description: Marketing Department
+gidNumber: 5002
+
+dn: cn=hr,ou=Groups,dc=maxwit,dc=com
+objectClass: posixGroup
+description: Human Resource Department
+gidNumber: 5003
+
+dn: cn=mrd,ou=Groups,dc=maxwit,dc=com
+objectClass: posixGroup
+description: Administrative Management Department
+gidNumber: 5004
