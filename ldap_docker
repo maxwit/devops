@@ -1,1 +1,0 @@
-docker run -p 389:389 --env LDAP_ORGANISATION="MaxWit" --env LDAP_DOMAIN="maxwit.com" --env LDAP_ADMIN_PASSWORD="maxwit"  --volume /data/slapd/database:/var/lib/ldap --volume /data/slapd/config:/etc/ldap/slapd.d -d osixia/openldap --copy-service

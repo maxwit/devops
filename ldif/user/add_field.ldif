@@ -1,0 +1,3 @@
+dn: uid=sandy,ou=People,dc=maxwit,dc=com
+add: mail
+mail: sandy.zhou@gmail.com

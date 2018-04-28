@@ -1,0 +1,2 @@
+dn: uid=sandy,ou=People,dc=maxwit,dc=com
+delete: mail

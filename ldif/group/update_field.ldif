@@ -1,0 +1,3 @@
+dn: cn=demogrp,ou=Groups,dc=maxwit,dc=com
+replace: description
+description: Demo Group

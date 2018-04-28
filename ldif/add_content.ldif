@@ -18,17 +18,17 @@ gidNumber: 5001
 
 dn: cn=mkt,ou=Groups,dc=maxwit,dc=com
 objectClass: posixGroup
-cn: Marketing Department
+description: Marketing Department
 gidNumber: 5002
 
 dn: cn=hr,ou=Groups,dc=maxwit,dc=com
 objectClass: posixGroup
-cn: Human Resource Department
+description: Human Resource Department
 gidNumber: 5003
 
 dn: cn=mrd,ou=Groups,dc=maxwit,dc=com
 objectClass: posixGroup
-cn: Administrative Management Department
+description: Administrative Management Department
 gidNumber: 5004
 
 dn: uid=young,ou=People,dc=maxwit,dc=com

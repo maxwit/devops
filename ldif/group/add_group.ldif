@@ -1,0 +1,5 @@
+# demogrp, Groups, maxwit.com
+dn: cn=demogrp,ou=Groups,dc=maxwit,dc=com
+objectClass: posixGroup
+description: Demo Group
+gidNumber: 5005
