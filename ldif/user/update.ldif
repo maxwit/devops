@@ -1,0 +1,13 @@
+# add field mail
+dn: uid=john,ou=People,dc=maxwit,dc=com
+add: mail
+mail: john.smith@gmail.com
+
+# update field mail
+dn: uid=john,ou=People,dc=maxwit,dc=com
+replace: mail
+mail: john@gmail.com
+
+# delete field mail
+dn: uid=john,ou=People,dc=maxwit,dc=com
+delete: mail

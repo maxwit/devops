@@ -2,4 +2,4 @@
 dn: cn=demogrp,ou=Groups,dc=maxwit,dc=com
 objectClass: posixGroup
 description: Demo Group
-gidNumber: 5005
+gidNumber: 5100

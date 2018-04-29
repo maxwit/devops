@@ -1,3 +1,0 @@
-dn: uid=sandy,ou=People,dc=maxwit,dc=com
-replace: mail
-mail: rrz@gmail.com

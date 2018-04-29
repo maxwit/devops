@@ -1,0 +1,15 @@
+dn: uid=john,ou=People,dc=maxwit,dc=com
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: john 
+sn: Smith
+givenName: John
+cn: John Smith
+displayName: John Smith
+uidNumber: 10100
+gidNumber: 5000
+userPassword: maxwit
+gecos: Jone Smith
+loginShell: /bin/bash
+homeDirectory: /home/john

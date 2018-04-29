@@ -1,0 +1,3 @@
+dn: ou=DemoOrg,dc=maxwit,dc=com
+objectClass: organizationalUnit
+ou: DemoOrg

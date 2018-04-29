@@ -1,0 +1,7 @@
+dn: ou=People,dc=maxwit,dc=com
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Groups,dc=maxwit,dc=com
+objectClass: organizationalUnit
+ou: Groups
